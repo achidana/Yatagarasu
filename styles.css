@@ -11,9 +11,12 @@
 
 #aboutPage{
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
 #aboutPageLeft, #aboutPageRight{
     font-family: 'Didact Gothic', sans-serif;
+    padding-left: 50px;
+    padding-right: 180px;
 
 }
