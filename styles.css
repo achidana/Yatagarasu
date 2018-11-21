@@ -1,0 +1,19 @@
+#homePage{
+    background-image: url("./assets/homePage_Image.jpg!d"); 
+    width: 100%; 
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#aboutPage{
+    margin-top: 100px;
+}
+
+#aboutPageLeft, #aboutPageRight{
+    font-family: 'Didact Gothic', sans-serif;
+
+}
